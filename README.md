@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a multi-feature stock prediction system that utilizes Long Short-Term Memory (LSTM) networks to forecast stock prices based on key financial metrics. The system integrates a frontend built with TypeScript and a backend powered by FastAPI, with an additional email notification service.
+This project is a multi-feature stock prediction system that utilizes Long Short-Term Memory (LSTM) networks to forecast stock prices based on key financial metrics. The system integrates a frontend built with TypeScript and a backend powered by Flask, with an additional email notification service.
 
 ## Features
 
